@@ -1,6 +1,2 @@
 .env
 /node_modules
-
-guilhermemoura17 12345
-
-mongodb+srv://guilhermemoura17:12345@cluster0.3zjsyun.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
